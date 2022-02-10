@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/graphicagenda.playground-fork-kzha449m",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Xcx2K6fzoFx7PUcdX2f3 --open"
+  }
+}
